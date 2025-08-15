@@ -29,3 +29,9 @@ Apaixonado por tecnologia, e busco evoluir grandemente como profissional nessa Ã
 - Email : augustosantos1709@gmail.com 
 - Telefone : (11)97152-3224
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/augustosantos17/augustosantos17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/augustosantos17/augustosantos17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/augustosantos17/augustosantos17/output/github-contribution-grid-snake.svg">
+</picture>
+
